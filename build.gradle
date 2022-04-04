@@ -1,0 +1,11 @@
+apply plugin:'java'
+
+repositories {
+   mavenCentral()
+   maven{ url "https://frcmaven.wpi.edu:443/artifactory/release" }
+}
+
+dependencies {
+   implementation 'edu.wpi.first.shuffleboard:api:2022.+'
+   implementation 'edu.wpi.first.shuffleboard.plugin:networktables:2020.+'
+}
