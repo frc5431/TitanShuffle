@@ -11,8 +11,8 @@ import java.util.List;
 @Description(group = "frc.team5431.shuffle", name = "TitanShufflePlugin", version = "0.0.1", summary = "5431's Shuffleboard Plugin")
 public class TitanShufflePlugin extends Plugin {
 
-    private static final Theme themeTitanDark = new Theme(TitanShufflePlugin.class, "Titan Dark", "/path/to/stylesheet");
-    private static final Theme themeTitanLight = new Theme(TitanShufflePlugin.class, "Titan Light", "/path/to/stylesheet");
+    private static final Theme themeTitanDark = new Theme(TitanShufflePlugin.class, "Titan Dark", "/frc/team5431/shuffle/titandark.css");
+    private static final Theme themeTitanLight = new Theme(TitanShufflePlugin.class, "Titan Light", "/frc/team5431/shuffle/titanlight.css");
 
     @Override
     public List<Theme> getThemes() {
