@@ -8,7 +8,7 @@ import edu.wpi.first.shuffleboard.api.theme.Theme;
 
 import java.util.List;
 
-@Description(group = "frc.team5431.shuffle", name = "TitanShufflePlugin", version = "0.0.1", summary = "5431's Shuffleboard Plugin")
+@Description(group = "frc.team5431.shuffle", name = "TitanShufflePlugin", version = "0.0.2", summary = "5431's Shuffleboard Plugin")
 public class TitanShufflePlugin extends Plugin {
 
     private static final Theme themeTitanDark = new Theme(TitanShufflePlugin.class, "Titan Dark", "/frc/team5431/shuffle/titandark.css");

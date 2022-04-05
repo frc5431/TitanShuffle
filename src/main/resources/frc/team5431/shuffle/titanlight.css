@@ -1,9 +1,9 @@
 @import "/edu/wpi/first/shuffleboard/app/light.css";  /* CSS for the Material Light theme */
 
 .root {
-    -swatch-100: hsb(212, 70%, 100%);
+    -swatch-100: hsb(212, 65%, 100%);
     -swatch-200: hsb(212, 70%, 90%);
-    -swatch-300: hsb(212, 70%, 80%);
-    -swatch-400: hsb(212, 70%, 70%);
-    -swatch-500: hsb(212, 70%, 60%);
+    -swatch-300: hsb(212, 75%, 80%);
+    -swatch-400: hsb(212, 80%, 70%);
+    -swatch-500: hsb(212, 85%, 60%);
 }
