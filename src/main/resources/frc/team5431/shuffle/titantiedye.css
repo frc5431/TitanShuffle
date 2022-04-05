@@ -1,0 +1,13 @@
+@import "/edu/wpi/first/shuffleboard/app/dark.css";  /* CSS for the Material Dark theme */
+
+.root {
+    -swatch-100: hsb(200, 100%, 100%);
+    -swatch-200: hsb(257, 90%, 90%);
+    -swatch-300: hsb(237, 67%, 80%);
+    -swatch-400: hsb(220, 90%, 75%);
+    -swatch-500: hsb(272, 80%, 60%);
+
+    -swatch-dark-gray: rgb(14, 32, 70);
+    -swatch-gray: rgb(46, 32, 99);
+    -swatch-light-gray: rgb(75, 45, 124);
+}

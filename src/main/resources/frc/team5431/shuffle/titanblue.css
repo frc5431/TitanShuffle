@@ -6,4 +6,8 @@
     -swatch-300: hsb(200, 90%, 79%);
     -swatch-400: hsb(200, 85%, 69%);
     -swatch-500: hsb(200, 80%, 59%);
+
+    -swatch-dark-gray: rgb(11, 28, 63);
+    -swatch-gray: rgb(30, 39, 78);
+    -swatch-light-gray: rgb(55, 74, 116);
 }
